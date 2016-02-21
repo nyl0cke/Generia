@@ -4,7 +4,8 @@
 [Tt]emp/
 [Oo]bj/
 [Bb]uild
-[Ll]ibrary/
+**/metadata/
+**/ShaderCache/
 sysinfo.txt
 *.stackdump
 *.meta
