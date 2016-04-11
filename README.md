@@ -1,2 +1,2 @@
 # Generic
-HackISU (MLH event) project by Paul Biermann and A Longnecker
+HackISU (MLH event) project by Paul Biermann and Longnecker
